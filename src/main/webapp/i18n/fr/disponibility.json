@@ -1,0 +1,9 @@
+{
+  "myApp": {
+    "Disponibility": {
+      "null": "",
+      "AVAILABLE": "AVAILABLE",
+      "UNAVAILABLE": "UNAVAILABLE"
+    }
+  }
+}

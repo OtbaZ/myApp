@@ -150,11 +150,11 @@ jhipster:
     title: myApp API
     description: myApp API documentation
     version: 0.0.1
-    terms-of-service-url:
-    contact-name:
+    terms-of-service-url: http://www.polytech.fr
+    contact-name: myApplication Otba ZERAMDINI
     contact-url:
-    contact-email:
-    license:
+    contact-email: help-myapplication@polytech.fr
+    license: Otba ZERAMDINI copyrights
     license-url:
 # ===================================================================
 # Application specific properties
